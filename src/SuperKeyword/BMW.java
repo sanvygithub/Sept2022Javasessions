@@ -4,7 +4,7 @@ public class BMW extends Car{
 	int maxSpeed=200;
 	
 	public BMW () {
-		super(10);
+		super();
 		System.out.println("BMW Default constructor");	
 	}
 	

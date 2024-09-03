@@ -53,7 +53,7 @@ public class StringManipulation {
 		System.out.println(t2.equals(t3));
 
 		String p1 = "hi java";
-		// p1=p1+" selenium";
+		 p1=p1+" selenium";
 		System.out.println(p1 + "java");
 
 		String Str = "java-code-python-go";
@@ -109,6 +109,7 @@ public class StringManipulation {
 
 		String s4 = mesg.substring(mesg.indexOf("user") + 5, mesg.indexOf("is"));
 		System.out.println(s4);
+		System.out.println(s4.length());
 
 		String s5 = mesg.substring(mesg.indexOf("user") + 5);
 		System.out.println(s5);

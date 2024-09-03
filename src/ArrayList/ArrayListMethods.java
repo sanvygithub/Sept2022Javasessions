@@ -58,6 +58,9 @@ public class ArrayListMethods {
 		System.out.println(stNames);
 		
 		
+		
+		
+		
 		//Top Casting
 		List<String> ar=new ArrayList<String>();
 		
