@@ -1,3 +1,4 @@
+
 package javaassignments;
 
 public class RemoveSpecialCharactersFromString {
