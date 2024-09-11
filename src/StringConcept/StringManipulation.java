@@ -100,7 +100,7 @@ public class StringManipulation {
 		// SubString
 
 		String mesg = "Your user username is sandhyakakarla";
-		String Submesg = mesg.substring(17);
+		String Submesg = mesg.substring(22);
 		System.out.println(Submesg);
 		// System.out.println(mesg.charAt(16));
 
