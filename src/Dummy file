@@ -3,6 +3,8 @@ Class main{
 public void main (String [] args){
 
 String s= "Sandhya"
-S.split(" ");
+char ch[]=s.split(" ");
+System.out.println(ch);
+
 }
 }
